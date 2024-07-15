@@ -13,13 +13,11 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This is my webpage and resume portfolio
+  This personal portfolio website project showcases 6 navigations and the layouts and features of every page, which all focuses about me.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=itsquas05/FINAL-PROJECT)
 
 ---
