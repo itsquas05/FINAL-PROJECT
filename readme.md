@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/itsquas05/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/logoo.png" alt="LOGO" width="130" height="100">
+    <img src="./assets/gif3.gif" alt="LOGO" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WEBSITE OF MY JOURNEY IN IT0043L</h3>
