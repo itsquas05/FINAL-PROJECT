@@ -8,10 +8,10 @@
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/gif3.gif" alt="LOGO" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WEBSITE OF MY JOURNEY IN IT0043L</h3>
+
+  <h3 align="center">PERSONAL WEBSITE PORTFOLIO</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
   This personal portfolio website project showcases 6 navigations and the layouts and features of every page, which all focuses about me.
 </div>
@@ -25,7 +25,6 @@
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -53,9 +52,8 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-This project is about creating my own portfolio and web page using HTML and CSS
+
+This project is about creating my own portfolio in a website using HTML, CSS, and JavaScript.
 
 Guiding Question:
 - What is the project
